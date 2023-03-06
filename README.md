@@ -2,7 +2,7 @@
 
 My inspiration for this week's assignment is from this gif:
 
-<img scr="https://https://i.pinimg.com/originals/31/00/5a/31005a2764a3cee6638b65577d4aae07.gif">
+<img width="357" scr="https://https://i.pinimg.com/originals/31/00/5a/31005a2764a3cee6638b65577d4aae07.gif">
 
 Therefore, I created a tile-based game by utilizing the ASCII level loader learned from class last week.
 
